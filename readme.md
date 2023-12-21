@@ -3,4 +3,4 @@
 * Autor: Matias Pennino
 * Módulo: Lenguaje de marcas
 
-[Web de ejemplo](index.html)
+[Web de ejemplo](Pennii.github.io/markdown/index.html)
